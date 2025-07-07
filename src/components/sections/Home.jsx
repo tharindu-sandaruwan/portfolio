@@ -3,7 +3,7 @@ import Typewriter from 'typewriter-effect';
 import { Link } from 'react-scroll';
 import { FiArrowRight, FiDownload, FiMail } from 'react-icons/fi';
 import { FaLinkedin, FaGithub, FaFacebook, FaInstagram } from 'react-icons/fa';
-import portfoliophoto from '../Images/blackMe.jpg'; // Assuming your path is correct from `src/components/sections` to `src/components/Images`
+import portfoliophoto from '../images/black-me.jpg'; // Assuming your path is correct from `src/components/sections` to `src/components/Images`
 
 const Home = () => {
   const socialLinks = {
